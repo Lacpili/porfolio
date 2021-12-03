@@ -1,5 +1,5 @@
 Base de Donnée: lacpili_portfolio_db.sql 
-Le  projet PORTFOLIO (Single page) est composé  de l’accueil, à propos, services, mes œuvres, contact.
+Le  projet est dans le dossier wordpressportfolio.  c'est un (Single page) composé  de l’accueil, à propos, services, mes œuvres, contact.
 	•L’accueil : c’est la première page lorsqu’on vient sur le site
 	•À propos : la présentation de mon personnage
 	•Services les services que j’offre (avec une hover au passage sur chaque service)
