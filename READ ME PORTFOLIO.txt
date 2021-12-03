@@ -1,0 +1,9 @@
+Base de Donnée: lacpili_portfolio_db.sql 
+Le  projet PORTFOLIO (Single page) est composé  de l’accueil, à propos, services, mes œuvres, contact.
+	•L’accueil : c’est la première page lorsqu’on vient sur le site
+	•À propos : la présentation de mon personnage
+	•Services les services que j’offre (avec une hover au passage sur chaque service)
+	•Œuvres : les œuvres réalisées
+	•Contact : et un formulaire pour le contact
+Le site est responsive par rapport au téléphone et la tablette en plus du grand écran.
+Nb:une flèchette voir en bas à droite permet de retourner au menu
