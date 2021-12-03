@@ -7,3 +7,7 @@ Le  projet PORTFOLIO (Single page) est composé  de l’accueil, à propos, serv
 	•Contact : et un formulaire pour le contact
 Le site est responsive par rapport au téléphone et la tablette en plus du grand écran.
 Nb:une flèchette voir en bas à droite permet de retourner au menu
+
+connecxion a wordpress
+username : felayarm@gmail.com
+password: wordpressportfolio
